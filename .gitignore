@@ -1,0 +1,9 @@
+#Logs
+Logs
+*.log
+
+#Dummies
+dummies/
+
+#Runtime data
+#runtime area
